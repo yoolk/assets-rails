@@ -1,0 +1,1 @@
+//= require jquery.timeago/v1.4.1/jquery.timeago.js
