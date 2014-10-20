@@ -1,0 +1,1 @@
+//= require jquery.fakecrop/jquery.fakecrop.js
