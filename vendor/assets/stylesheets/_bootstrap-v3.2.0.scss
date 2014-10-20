@@ -1,0 +1,52 @@
+@import "bootstrap/v3.2.0/bootstrap-sprockets";
+
+// Core variables and mixins
+@import "bootstrap/v3.2.0/variables";
+@import "bootstrap/v3.2.0/mixins";
+
+// Reset and dependencies
+@import "bootstrap/v3.2.0/normalize";
+@import "bootstrap/v3.2.0/print";
+@import "bootstrap/v3.2.0/glyphicons";
+
+// Core CSS
+@import "bootstrap/v3.2.0/scaffolding";
+@import "bootstrap/v3.2.0/type";
+@import "bootstrap/v3.2.0/code";
+@import "bootstrap/v3.2.0/grid";
+@import "bootstrap/v3.2.0/tables";
+@import "bootstrap/v3.2.0/forms";
+@import "bootstrap/v3.2.0/buttons";
+
+// Components
+@import "bootstrap/v3.2.0/component-animations";
+@import "bootstrap/v3.2.0/dropdowns";
+@import "bootstrap/v3.2.0/button-groups";
+@import "bootstrap/v3.2.0/input-groups";
+@import "bootstrap/v3.2.0/navs";
+@import "bootstrap/v3.2.0/navbar";
+@import "bootstrap/v3.2.0/breadcrumbs";
+@import "bootstrap/v3.2.0/pagination";
+@import "bootstrap/v3.2.0/pager";
+@import "bootstrap/v3.2.0/labels";
+@import "bootstrap/v3.2.0/badges";
+@import "bootstrap/v3.2.0/jumbotron";
+@import "bootstrap/v3.2.0/thumbnails";
+@import "bootstrap/v3.2.0/alerts";
+@import "bootstrap/v3.2.0/progress-bars";
+@import "bootstrap/v3.2.0/media";
+@import "bootstrap/v3.2.0/list-group";
+@import "bootstrap/v3.2.0/panels";
+@import "bootstrap/v3.2.0/responsive-embed";
+@import "bootstrap/v3.2.0/wells";
+@import "bootstrap/v3.2.0/close";
+
+// Components w/ JavaScript
+@import "bootstrap/v3.2.0/modals";
+@import "bootstrap/v3.2.0/tooltip";
+@import "bootstrap/v3.2.0/popovers";
+@import "bootstrap/v3.2.0/carousel";
+
+// Utility classes
+@import "bootstrap/v3.2.0/utilities";
+@import "bootstrap/v3.2.0/responsive-utilities";
