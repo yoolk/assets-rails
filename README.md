@@ -45,6 +45,7 @@ Currently, Assets-Rails has bundled the following libraries:
 9. jquery.render [v1.1.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.render/v1.1.0.js)
 10. jquery.timeago [v1.4.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.timeago/v1.4.1.js)
 11. zebra_datepicker [v1.8.9](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/zebra_datepicker/v1.8.9.js)
+12. font-awesome [v4.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/stylesheets/font-awesome/v4.2.0.css)
 
 ## Authors
 
