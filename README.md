@@ -1,6 +1,6 @@
 # Assets-Rails
 
-`Assets-Rails` allows you to require javascript and stylesheet libraries with the exact version so that your frontend stuffs will continue to work as times passed by. It's similar to Bundler's **Gemlock.file**.
+`Assets-Rails` allows you to require javascript and stylesheet libraries with the exact version so that your frontend stuffs will continue to work as times passed by. You can use different versions for different templates in a single Rails application.
 
 ## Installation
 
