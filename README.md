@@ -1,6 +1,6 @@
 # Assets-Rails
 
-`Assets-Rails` allows you to require javascript and stylesheet libraries with the exact version so that your frontend stuffs will continue to work as times passed by. You can use different versions for different templates in a single Rails application.
+**assets-rails** allows you to require javascript and stylesheet libraries with the exact version so that your frontend stuffs will continue to work as times passed by. You can use different versions for different templates in a single Rails application.
 
 ## Installation
 
@@ -26,13 +26,13 @@ The good use case of this gem is that you have a Rails application which allows 
   //= require bootstrap
 ```
 
-This above line **currently** means require **bootstrap.v3.2.0**. As times passed by, **bootstrap** team releases newer version, the above line will fail out the existing themes. **Assets-Rails** allows you to require with the exact version inside your manifest files. This allows you to work on new themes and keep the existing themes continue to work as normal.
+This above line **currently** means require **bootstrap.v3.2.0**. As times passed by, **bootstrap** team releases newer version, the above line will fail out the existing themes. **assets-rails** allows you to require with the exact version inside your manifest files. This allows you to work on new themes and keep the existing themes continue to work as normal.
 
 ```javascript
   //= require bootstrap/v3.2.0
 ```
 
-Currently, Assets-Rails has bundled the following libraries:
+Currently, assets-rails has bundled the following libraries:
 
 1. jquery: [v1.11.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v1.11.1.js), [v2.1.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v2.1.1.js)
 2. bootstrap: [v3.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/bootstrap/v3.2.0.js)

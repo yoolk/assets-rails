@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Assets::Rails::VERSION
   spec.authors       = ['Chamnap Chhorn']
   spec.email         = ['chamnapchhorn@gmail.com']
-  spec.summary       = %q{Require the versioned js/css libraries easily in your Rails application}
-  spec.description   = %q{Require the versioned js/css libraries easily in your Rails application}
+  spec.summary       = %q{Require the versioned js/css libraries in your rails asset pipeline.}
+  spec.description   = %q{Require the versioned js/css libraries in your rails asset pipeline. You can use different versions for different templates in a single Rails application.}
   spec.homepage      = ''
   spec.license       = 'MIT'
 
