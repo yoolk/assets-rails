@@ -1,6 +1,6 @@
 # Assets-Rails
 
-`Assets-Rails` allows you to require javascript and stylesheet libraries with the exact version so that your frontend stuffs will continue to work. It's similar to Bundler's **Gemlock.file**.
+`Assets-Rails` allows you to require javascript and stylesheet libraries with the exact version so that your frontend stuffs will continue to work as times passed by. It's similar to Bundler's **Gemlock.file**.
 
 ## Installation
 
@@ -22,14 +22,14 @@ Or install it yourself as:
 
 The good use case of this gem is that you have a Rails application which allows external designers to build themes. In this case, you have no control on those themes or you have too many themes to work on when upgrading the frontend framework such as: **jquery** or **bootstrap**. Why it's hard to upgrade? It's because of this line:
 
-```ruby
-  require bootstrap
+```javascript
+  //= require bootstrap
 ```
 
 This above line **currently** means require **bootstrap.v3.2.0**. As times passed by, **bootstrap** team releases newer version, the above line will fail out the existing themes. **Assets-Rails** allows you to require with the exact version inside your manifest files.
 
-```ruby
-  require bootstrap/v3.2.0
+```javascript
+  //= require bootstrap/v3.2.0
 ```
 
 Currently, Assets-Rails has bundled the following libraries:
