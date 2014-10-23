@@ -44,14 +44,14 @@ Currently, assets-rails has bundled the following libraries:
 8. jquery.flexslider [v2.2.2](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.flexslider/v2.2.2.js)
 9. jquery.render [v1.1.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.render/v1.1.0.js)
 10. jquery.timeago [v1.4.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.timeago/v1.4.1.js)
-11. zebra_datepicker [v1.8.9](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/zebra_datepicker/v1.8.9.js)
-12. font-awesome [v4.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/stylesheets/font-awesome/v4.2.0.css)
-13. jquery.nivo.slider [v3.2]
-14. jquery.owlcarousel [v1.3.3]
-15. jquery.scrollto [v1.4.13]
-16. draggabilly [v1.1.1]
-17. imagesloaded [v3.1.8]
-18. masonry [v3.1.5]
+11. jquery.nivo.slider [v3.2](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.nivo.slider/v3.2.js)
+12. jquery.owlcarousel [v1.3.3](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.owlcarousel/v1.3.3.js)
+13. jquery.scrollto [v1.4.13](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.scrollto/v1.4.13.js)
+14. font-awesome [v4.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/stylesheets/font-awesome/v4.2.0.css)
+15. zebra_datepicker [v1.8.9](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/zebra_datepicker/v1.8.9.js)
+16. draggabilly [v1.1.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/draggabilly/v1.1.1.js)
+17. imagesloaded [v3.1.8](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/imagesloaded/v3.1.8.js)
+18. masonry [v3.1.5](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/masonry/v3.1.5.js)
 
 ## Authors
 
