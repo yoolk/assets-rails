@@ -34,8 +34,8 @@ This above line **currently** means require **bootstrap.v3.2.0**. As times passe
 
 Currently, assets-rails has bundled the following libraries:
 
-1. jquery: [v1.11.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v1.11.1.js), [v2.1.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v2.1.1.js)
-2. bootstrap: [v3.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/bootstrap/v3.2.0.js)
+1. bootstrap: [v3.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/bootstrap/v3.2.0.js)
+2. jquery: [v1.11.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v1.11.1.js), [v2.1.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v2.1.1.js)
 3. jquery.collageplus [v0.3.3](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.collageplus/v0.3.3.js)
 4. jquery.colorbox [v1.5.14](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.colorbox/v1.5.14.js)
 5. jquery.expander [v1.4.12](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.expander/v1.4.12.js)
@@ -46,6 +46,12 @@ Currently, assets-rails has bundled the following libraries:
 10. jquery.timeago [v1.4.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.timeago/v1.4.1.js)
 11. zebra_datepicker [v1.8.9](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/zebra_datepicker/v1.8.9.js)
 12. font-awesome [v4.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/stylesheets/font-awesome/v4.2.0.css)
+13. jquery.nivo.slider [v3.2]
+14. jquery.owlcarousel [v1.3.3]
+15. jquery.scrollto [v1.4.13]
+16. draggabilly [v1.1.1]
+17. imagesloaded [v3.1.8]
+18. masonry [v3.1.5]
 
 ## Authors
 
