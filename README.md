@@ -34,7 +34,7 @@ This above line **currently** means require **bootstrap.v3.2.0**. As times passe
 
 Currently, assets-rails has bundled the following libraries:
 
-1. bootstrap: [v3.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/bootstrap/v3.2.0.js)
+1. bootstrap: [v3.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/bootstrap/v3.2.0.js), [v3.3.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/bootstrap/v3.3.0.js)
 2. jquery: [v1.11.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v1.11.1.js), [v2.1.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery/v2.1.1.js)
 3. jquery.collageplus [v0.3.3](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.collageplus/v0.3.3.js)
 4. jquery.colorbox [v1.5.14](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.colorbox/v1.5.14.js)
