@@ -52,6 +52,8 @@ Currently, assets-rails has bundled the following libraries:
 16. draggabilly [v1.1.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/draggabilly/v1.1.1.js)
 17. imagesloaded [v3.1.8](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/imagesloaded/v3.1.8.js)
 18. masonry [v3.1.5](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/masonry/v3.1.5.js)
+19. responsiveCarousel [v1.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/responsiveCarousel/v1.2.0.js)
+20. responsiveslides [v1.54](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/responsiveslides/v1.54.js)
 
 ## Authors
 
