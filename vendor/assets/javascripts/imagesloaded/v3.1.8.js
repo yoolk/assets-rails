@@ -1,2 +1,2 @@
 // https://github.com/desandro/imagesloaded/
-//= require imagesloaded/v1.8.9/imagesloaded.js
+//= require imagesloaded/v3.1.8/imagesloaded.js
