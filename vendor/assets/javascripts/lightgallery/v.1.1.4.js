@@ -1,0 +1,1 @@
+//= require lightgallery/v1.1.4/lightgallery.min
