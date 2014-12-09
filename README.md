@@ -51,7 +51,7 @@ Currently, assets-rails has bundled the following libraries:
 15. [jquery.pageless](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.pageless.js)
 16. jquery.turbolinks [v2.1.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.turbolinks/v2.1.0.js)
 17. jquery.cookie [v1.4.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.cookie/v1.4.1.js)
-18. jquery.share (https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.share.js)
+18. [jquery.share](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/jquery.share.js)
 19. nprogress [v0.1.6](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/nprogress/v0.1.6.js)
 20. font-awesome [v4.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/stylesheets/font-awesome/v4.2.0.css)
 21. zebra_datepicker [v1.8.9](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/zebra_datepicker/v1.8.9.js)
@@ -61,6 +61,7 @@ Currently, assets-rails has bundled the following libraries:
 25. responsiveCarousel [v1.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/responsiveCarousel/v1.2.0.js)
 26. responsiveslides [v1.54](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/responsiveslides/v1.54.js)
 27. isotope [v2.0.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/isotope/v2.0.1.js)
+28. photoswipe [v4.0.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/photoswipe/v4.0.0.js)
 
 ## Authors
 
