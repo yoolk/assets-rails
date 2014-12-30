@@ -255,14 +255,14 @@ a.pswp__share--download:hover {
 .pswp__preloader--active {
   opacity: 1; }
   .pswp__preloader--active .pswp__preloader__icn {
-    background: asset-url('photoswipe/v4.0.2/default-skin/preloader.gi') 0' 0 no-repeat; }
+    background: asset-url('photoswipe/v4.0.2/default-skin/preloader.gif') 0 0 no-repeat; }
 
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1; }
   .pswp--css_animation .pswp__preloader--active .pswp__preloader__icn {
     -webkit-animation: clockwise 500ms linear infinite;
             animation: clockwise 500ms linear infinite; }
-  .pswp--css_animation .pswp__preloader--active.psw'p__preloader__donut {
+  .pswp--css_animation .pswp__preloader--active .pswp__preloader__donut {
     -webkit-animation: donut-rotate 1000ms cubic-bezier(0.4, 0, 0.22, 1) infinite;
             animation: donut-rotate 1000ms cubic-bezier(0.4, 0, 0.22, 1) infinite; }
 .pswp--css_animation .pswp__preloader__icn {
