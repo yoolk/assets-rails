@@ -62,7 +62,7 @@ Currently, assets-rails has bundled the following libraries:
 26. responsiveCarousel [v1.2.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/responsiveCarousel/v1.2.0.js)
 27. responsiveslides [v1.54](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/responsiveslides/v1.54.js)
 28. isotope [v2.0.1](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/isotope/v2.0.1.js)
-29. photoswipe [v4.0.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/photoswipe/v4.0.0.js)
+29. photoswipe [v4.0.0](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/photoswipe/v4.0.0.js), [v4.0.2](https://github.com/yoolk/assets-rails/blob/master/vendor/assets/javascripts/photoswipe/v4.0.2.js)
 
 ## Authors
 
