@@ -1,2 +1,2 @@
 // https://github.com/desandro/masonry/
-//= require masonry/v3.1.5/masonry.js
+//= require masonry/v3.2.2/masonry.js
