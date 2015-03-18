@@ -1,0 +1,12 @@
+//= require bootstrap/v3.3.0/affix
+//= require bootstrap/v3.3.0/alert
+//= require bootstrap/v3.3.0/button
+//= require bootstrap/v3.3.0/carousel
+//= require bootstrap/v3.3.0/collapse
+//= require bootstrap/v3.3.0/dropdown
+//= require bootstrap/v3.3.0/tab
+//= require bootstrap/v3.3.0/transition
+//= require bootstrap/v3.3.0/scrollspy
+//= require bootstrap/v3.3.0/modal
+//= require bootstrap/v3.3.0/tooltip
+//= require bootstrap/v3.3.0/popover
