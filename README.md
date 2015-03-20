@@ -67,7 +67,7 @@ Currently, assets-rails has bundled the following libraries:
 31. bootstrap-hover-dropdown [v2.1.3](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/bootstrap-hover-dropdown/v2.1.3.js)
 32. jquery.magnific-popup [v1.0.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.magnific-popup/v1.0.0.js)
 33. [jquery.resizeimagetoparent](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.resizeimagetoparent.js)
-34. jquery-migrate [v1.2.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery-migrate/v1.2.1/jquery-migrate-1.2.1.min.js)
+34. jquery-migrate [v1.2.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery-migrate/v1.2.1.js)
 
 ## Authors
 
