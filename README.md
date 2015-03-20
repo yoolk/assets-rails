@@ -58,12 +58,13 @@ Currently, assets-rails has bundled the following libraries:
 22. zebra_datepicker [v1.8.9](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/zebra_datepicker/v1.8.9.js)
 23. draggabilly [v1.1.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/draggabilly/v1.1.1.js)
 24. imagesloaded [v3.1.8](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/imagesloaded/v3.1.8.js)
-25. masonry [v3.1.5](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/masonry/v3.1.5.js)
+25. masonry [v3.2.2](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/masonry/v3.2.2.js)
 26. responsiveCarousel [v1.2.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/responsiveCarousel/v1.2.0.js)
 27. responsiveslides [v1.54](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/responsiveslides/v1.54.js)
 28. isotope [v2.0.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/isotope/v2.0.1.js)
 29. photoswipe [v4.0.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/photoswipe/v4.0.0.js), [v4.0.2](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/photoswipe/v4.0.2.js)
 30. waypoints [v3.0.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/waypoints/v3.0.1/)
+31. bootstrap-hover-dropdown [v2.1.3](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/bootstrap-hover-dropdown/v2.1.3.js)
 
 ## Authors
 
