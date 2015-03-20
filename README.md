@@ -65,6 +65,7 @@ Currently, assets-rails has bundled the following libraries:
 29. photoswipe [v4.0.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/photoswipe/v4.0.0.js), [v4.0.2](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/photoswipe/v4.0.2.js)
 30. waypoints [v3.0.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/waypoints/v3.0.1/)
 31. bootstrap-hover-dropdown [v2.1.3](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/bootstrap-hover-dropdown/v2.1.3.js)
+32. jquery.magnific-popup [v1.0.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.magnific-popup/v1.0.0.js)
 
 ## Authors
 
