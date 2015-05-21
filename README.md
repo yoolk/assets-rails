@@ -68,6 +68,7 @@ Currently, assets-rails has bundled the following libraries:
 32. jquery.magnific-popup [v1.0.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.magnific-popup/v1.0.0.js)
 33. [jquery.resizeimagetoparent](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.resizeimagetoparent.js)
 34. jquery-migrate [v1.2.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery-migrate/v1.2.1.js)
+35. [jquery.mCustomScrollbar](https://github.com/yoolk/assets-rails/tree/jquery.mCustomScrollbar/app/assets/javascripts/jquery.mCustomScrollbar)
 
 ## Authors
 
