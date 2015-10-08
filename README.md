@@ -70,6 +70,12 @@ Currently, assets-rails has bundled the following libraries:
 34. jquery-migrate [v1.2.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery-migrate/v1.2.1.js)
 35. [jquery.mCustomScrollbar](https://github.com/yoolk/assets-rails/tree/jquery.mCustomScrollbar/app/assets/javascripts/jquery.mCustomScrollbar)
 36. mobile-detect [v1.2.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/mobile-detect/v1.2.0/)
+37. js-cookie [v2.0.2](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/js-cookie/v2.0.2.js)
+38. jquery-ui [v1.11.4](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery-ui/v1.11.4.js)
+39. jquery.matchHeight [v0.6.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.matchHeight/v0.6.0.js)
+40. jquery.elevatezoom [v3.0.8](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.elevatezoom/v3.0.8.js)
+41. jquery.glasscase [v2.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.glasscase/v2.1.js)
+
 
 ## Authors
 
