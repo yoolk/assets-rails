@@ -74,7 +74,6 @@ Currently, assets-rails has bundled the following libraries:
 38. jquery-ui [v1.11.4](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery-ui/v1.11.4.js)
 39. jquery.matchHeight [v0.6.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.matchHeight/v0.6.0.js)
 40. jquery.elevatezoom [v3.0.8](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.elevatezoom/v3.0.8.js)
-41. jquery.glasscase [v2.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.glasscase/v2.1.js)
 42. wow [v1.1.2](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/wow/v1.1.2.js)
 43. jquery.minimalect [v0.9.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.minimalect/v0.9.0.js), [v0.9.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/stylesheets/jquery.minimalect/v0.9.0.scss)
 44. javascript-equal-height-responsive-rows[v1.0.0](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/javascript-equal-height-responsive-rows/v1.0.0.js)
