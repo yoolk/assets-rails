@@ -1,0 +1,1 @@
+//= require bootstrap-validator/v0.9.0/bootstrap-validator.min.js
