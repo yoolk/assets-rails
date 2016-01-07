@@ -80,6 +80,7 @@ Currently, assets-rails has bundled the following libraries:
 45. jquery.cycle2 [v2.1.6](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/jquery.cycle2/v2.1.6.js)
 46. smartcrop.js [v0.0.1](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/smartcrop/v0.0.1.js)
 47. evol.colorpicker [v3.2.3](https://github.com/yoolk/assets-rails/blob/master/app/assets/javascripts/evol.colorpicker/v3.2.3.js), [v3.2.3](https://github.com/yoolk/assets-rails/blob/master/app/assets/stylesheets/evol.colorpicker/v3.2.3.scss)
+48. jquery.fileupload
 
 ## Authors
 
