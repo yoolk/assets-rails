@@ -1,0 +1,1 @@
+//= require blueimp-load-image/v2.1.0/load-image.js
