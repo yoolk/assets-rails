@@ -1,0 +1,1 @@
+//= require bootstrap-notify/v3.1.5/bootstrap-notify.js
