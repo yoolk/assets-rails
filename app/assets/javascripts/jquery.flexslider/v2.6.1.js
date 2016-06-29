@@ -1,0 +1,1 @@
+//= require jquery.flexslider/v2.6.1/jquery.flexslider.js
