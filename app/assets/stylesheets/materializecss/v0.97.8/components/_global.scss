@@ -17,16 +17,16 @@ main {
   // flex: 1 0 auto;
 }
 
-ul {
-  &:not(.browser-default) {
-    padding-left: 0;
-    list-style-type: none;
+// ul {
+//   &:not(.browser-default) {
+//     padding-left: 0;
+//     list-style-type: none;
 
-    li {
-      list-style-type: none;
-    }
-  }
-}
+//     li {
+//       list-style-type: none;
+//     }
+//   }
+// }
 
 a {
   color: $link-color;
