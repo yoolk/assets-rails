@@ -55,7 +55,7 @@
 
 /* mouse grab icon */
 .grabbing {
-    cursor:image-url('jquery.owlcarousel/grabbing.png') 8 8, move;
+    cursor: asset-data-url('jquery.owlcarousel/grabbing.png') 8 8, move;
 }
 
 /* fix */
